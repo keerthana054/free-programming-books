@@ -1,6 +1,7 @@
 ### Index
 
 * [APL](#apl)
+* [Algorithm](#algorithms)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
@@ -45,7 +46,9 @@
 * [Dyalog APL - Vocabulary](https://awagga.github.io/dyalog/voc) - awagga (HTML)
 * [ReferenceCard](https://docs.dyalog.com/latest/ReferenceCard.pdf) - Dyalog (PDF)
 
+### Algorithms
 
+* [Notes](https://goalkicker.com/AlgorithmsBook/AlgorithmsNotesForProfessionals.pdf) - Goalkicker(PDF)
 ### Artificial Intelligence
 
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
