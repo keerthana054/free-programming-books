@@ -11,6 +11,7 @@
 * [CSS](#css)
 * [Data Science](#data-science)
 * [Docker](#docker)
+* [DP](#dp)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -112,7 +113,8 @@
 * [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DokerLabs (HTML)
 
-
+### DP
+* [DP Cheatsheet](https://whimsical.com/dp-sheet-by-love-babbar-EELKgSMWg51ypLyfn9mTjr) - Love Babbar
 ### Git
 
 * [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (online, PDF)
